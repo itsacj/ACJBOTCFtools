@@ -65,7 +65,7 @@ Esto es una limitación del API, no del bot.
 
 ### 1️⃣ Clonar repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/ACJBOTCFtools.git
+git clone https://github.com/itsacj/ACJBOTCFtools.git
 cd ACJBOTCFtools
 
 
@@ -209,7 +209,7 @@ This is an API limitation, not a bot bug.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ACJBOTCFtools.git
+git clone https://github.com/itsacj/ACJBOTCFtools.git
 cd ACJBOTCFtools
 2️⃣ Install dependencies
 bash
